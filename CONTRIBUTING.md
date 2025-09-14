@@ -3,7 +3,12 @@ Contributing to Crysta UI
 Thank you for your interest in contributing to Crysta UI 🎉
 We welcome contributions of all kinds — bug fixes, new features, documentation improvements, testing, and even examples/demos.
 
-🛠 How to Contribute
+🛠 How to Contribute (Manually)
+1. Fork this repository along with all the existing code.
+2. Create your own custom JavaScript classes and the relevant CSS styles for the elements you want to add or improve.
+3. Submit a Pull Request (PR) to this repository with your changes.
+
+🛠 How to Contribute (Via AnvPy)
 1. Install AnvPy on your Android device from [**Google Play**](https://play.google.com/store/apps/details?id=org.python.adp&pcampaignid=web_share).
 2. Create a new Crysta UI Project Template in AnvPy.
 3. Build your own widgets, UI designs, or demo projects.
